@@ -1,2 +1,2 @@
 # Node Js - Curso completo da Udemy
-Estou no 2 capitulo
+Estou na SECTION 3, LECTURE 8

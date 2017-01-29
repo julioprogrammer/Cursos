@@ -1,2 +1,2 @@
 # React - Curso completo da Udemy
-Estou na Section 3, Lecture 6 
+Estou na Section 3, Lecture 7 

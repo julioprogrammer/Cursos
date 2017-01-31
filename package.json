@@ -1,0 +1,19 @@
+{
+  "name": "cursos",
+  "version": "1.0.0",
+  "description": "Projetos de cursos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioprogrammer/Cursos.git"
+  },
+  "author": "Julio Cesar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julioprogrammer/Cursos/issues"
+  },
+  "homepage": "https://github.com/julioprogrammer/Cursos#readme"
+}
